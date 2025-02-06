@@ -1,0 +1,2 @@
+// config/apiConfig.ts
+export const YELP_API_TOKEN = 'fHyK6E5o9K4njMlDlcTrDgQOAtPWaWtgEOfcu12d6zHp6dg41KwVs84_pDnwVxlwKC4fNm73FXJqfeH9EAT5Zd8etdYuOORxwYN_DE18GbYkumt2AFFe1qzokpI_Z3Yx';
